@@ -32,6 +32,7 @@ h1{
     border-radius: 18px;
     font-family: 'Roboto', sans-serif;
     transition: 0.6s ease-out;
+    bot-shadow: 0 5px 15px rgba(0,0,0,.5);
 }
 
 .search-box{
