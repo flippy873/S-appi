@@ -44,7 +44,8 @@ h1{
 }
 
 .search-box input{
-    color: rgba(255,255,255,.2);
+    background: rgb(108,173,212);
+    background: linear-gradient(90deg, rgba(108,173,212,1) 3%, rgba(182,195,116,1) 45%, rgba(31,204,240,1) 100%);
     width: 80%;
     font-size: 24px;
     font-weight: 500;
